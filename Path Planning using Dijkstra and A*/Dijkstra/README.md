@@ -65,5 +65,6 @@ we have to change to the correct directory again.
 	For issues that you may encounter create an issue on GitHub.
   
 ### Maintainers ###
+	Jeet Patel (jeetpatel242@gmail.com)
 	Mrugesh Shah (mrugesh.shah92@gmail.com)
-  Jeet Patel (jeetpatel242@gmail.com
+
